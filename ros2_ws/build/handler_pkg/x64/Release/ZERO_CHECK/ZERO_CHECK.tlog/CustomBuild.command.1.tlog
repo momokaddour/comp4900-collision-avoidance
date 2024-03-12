@@ -1,0 +1,10 @@
+^C:\COMP4900PROJECT\ROS2_WS\BUILD\HANDLER_PKG\CMAKEFILES\3D3AE47ED65919B7D3BD2FBC08495DA0\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/COMP4900project/ros2_ws/src/handler_pkg -BC:/COMP4900project/ros2_ws/build/handler_pkg --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/COMP4900project/ros2_ws/build/handler_pkg/handler_pkg.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

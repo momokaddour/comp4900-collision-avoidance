@@ -1,0 +1,18 @@
+Invoking command in 'C:\COMP4900project\ros2_ws\build\sensor_pkg': INCLUDE=%INCLUDE%
+IntelliJ IDEA=C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin;
+IntelliJ IDEA Educational Edition=C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2020.3.2\bin; C:\Program Files\CMake\bin\cmake.EXE C:\COMP4900project\ros2_ws\src\sensor_pkg -DCMAKE_INSTALL_PREFIX=C:\COMP4900project\ros2_ws\install -G Visual Studio 16 2019
+Invoked command in 'C:\COMP4900project\ros2_ws\build\sensor_pkg' returned '0': INCLUDE=%INCLUDE%
+IntelliJ IDEA=C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin;
+IntelliJ IDEA Educational Edition=C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2020.3.2\bin; C:\Program Files\CMake\bin\cmake.EXE C:\COMP4900project\ros2_ws\src\sensor_pkg -DCMAKE_INSTALL_PREFIX=C:\COMP4900project\ros2_ws\install -G Visual Studio 16 2019
+Invoking command in 'C:\COMP4900project\ros2_ws\build\sensor_pkg': CL=/MP INCLUDE=%INCLUDE%
+IntelliJ IDEA=C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin;
+IntelliJ IDEA Educational Edition=C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2020.3.2\bin; C:\Program Files\CMake\bin\cmake.EXE --build C:\COMP4900project\ros2_ws\build\sensor_pkg --config Release
+Invoked command in 'C:\COMP4900project\ros2_ws\build\sensor_pkg' returned '0': CL=/MP INCLUDE=%INCLUDE%
+IntelliJ IDEA=C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin;
+IntelliJ IDEA Educational Edition=C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2020.3.2\bin; C:\Program Files\CMake\bin\cmake.EXE --build C:\COMP4900project\ros2_ws\build\sensor_pkg --config Release
+Invoking command in 'C:\COMP4900project\ros2_ws\build\sensor_pkg': INCLUDE=%INCLUDE%
+IntelliJ IDEA=C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin;
+IntelliJ IDEA Educational Edition=C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2020.3.2\bin; C:\Program Files\CMake\bin\cmake.EXE --install C:\COMP4900project\ros2_ws\build\sensor_pkg --config Release
+Invoked command in 'C:\COMP4900project\ros2_ws\build\sensor_pkg' returned '0': INCLUDE=%INCLUDE%
+IntelliJ IDEA=C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin;
+IntelliJ IDEA Educational Edition=C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2020.3.2\bin; C:\Program Files\CMake\bin\cmake.EXE --install C:\COMP4900project\ros2_ws\build\sensor_pkg --config Release

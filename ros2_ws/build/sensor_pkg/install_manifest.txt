@@ -1,0 +1,14 @@
+C:/COMP4900project/ros2_ws/install/lib/sensor_pkg/sensor.exe
+C:/COMP4900project/ros2_ws/install/share/ament_index/resource_index/package_run_dependencies/sensor_pkg
+C:/COMP4900project/ros2_ws/install/share/ament_index/resource_index/parent_prefix_path/sensor_pkg
+C:/COMP4900project/ros2_ws/install/share/sensor_pkg/environment/ament_prefix_path.bat
+C:/COMP4900project/ros2_ws/install/share/sensor_pkg/environment/ament_prefix_path.dsv
+C:/COMP4900project/ros2_ws/install/share/sensor_pkg/environment/path.bat
+C:/COMP4900project/ros2_ws/install/share/sensor_pkg/environment/path.dsv
+C:/COMP4900project/ros2_ws/install/share/sensor_pkg/local_setup.bat
+C:/COMP4900project/ros2_ws/install/share/sensor_pkg/local_setup.dsv
+C:/COMP4900project/ros2_ws/install/share/sensor_pkg/package.dsv
+C:/COMP4900project/ros2_ws/install/share/ament_index/resource_index/packages/sensor_pkg
+C:/COMP4900project/ros2_ws/install/share/sensor_pkg/cmake/sensor_pkgConfig.cmake
+C:/COMP4900project/ros2_ws/install/share/sensor_pkg/cmake/sensor_pkgConfig-version.cmake
+C:/COMP4900project/ros2_ws/install/share/sensor_pkg/package.xml

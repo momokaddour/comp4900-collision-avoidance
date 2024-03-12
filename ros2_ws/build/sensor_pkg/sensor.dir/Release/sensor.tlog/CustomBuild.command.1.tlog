@@ -1,0 +1,10 @@
+^C:\COMP4900PROJECT\ROS2_WS\SRC\SENSOR_PKG\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/COMP4900project/ros2_ws/src/sensor_pkg -BC:/COMP4900project/ros2_ws/build/sensor_pkg --check-stamp-file C:/COMP4900project/ros2_ws/build/sensor_pkg/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

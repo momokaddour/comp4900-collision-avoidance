@@ -1,0 +1,48 @@
+-- Selecting Windows SDK version 10.0.22000.0 to target Windows 10.0.22631.
+-- The C compiler identification is MSVC 19.29.30154.0
+-- The CXX compiler identification is MSVC 19.29.30154.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.8 (C:/dev/ros2-humble-20240222-windows-release-amd64/ros2-windows/share/ament_cmake/cmake)
+-- Found Python3: C:/Python38/python.exe (found version "3.8.3") found components: Interpreter 
+-- Found ament_lint_auto: 0.12.10 (C:/dev/ros2-humble-20240222-windows-release-amd64/ros2-windows/share/ament_lint_auto/cmake)
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: $<BUILD_INTERFACE:C:/COMP4900project/ros2_ws/src/sensor_pkg/include>
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done (13.7s)
+-- Generating done (0.1s)
+-- Build files have been written to: C:/COMP4900project/ros2_ws/build/sensor_pkg
+Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  1>Checking Build System
+  Building Custom Rule C:/COMP4900project/ros2_ws/src/sensor_pkg/CMakeLists.txt
+  sensor.cpp
+  sensor.vcxproj -> C:\COMP4900project\ros2_ws\build\sensor_pkg\Release\sensor.exe
+  Building Custom Rule C:/COMP4900project/ros2_ws/src/sensor_pkg/CMakeLists.txt
+-- Installing: C:/COMP4900project/ros2_ws/install/lib/sensor_pkg/sensor.exe
+-- Installing: C:/COMP4900project/ros2_ws/install/share/ament_index/resource_index/package_run_dependencies/sensor_pkg
+-- Installing: C:/COMP4900project/ros2_ws/install/share/ament_index/resource_index/parent_prefix_path/sensor_pkg
+-- Installing: C:/COMP4900project/ros2_ws/install/share/sensor_pkg/environment/ament_prefix_path.bat
+-- Installing: C:/COMP4900project/ros2_ws/install/share/sensor_pkg/environment/ament_prefix_path.dsv
+-- Installing: C:/COMP4900project/ros2_ws/install/share/sensor_pkg/environment/path.bat
+-- Installing: C:/COMP4900project/ros2_ws/install/share/sensor_pkg/environment/path.dsv
+-- Installing: C:/COMP4900project/ros2_ws/install/share/sensor_pkg/local_setup.bat
+-- Installing: C:/COMP4900project/ros2_ws/install/share/sensor_pkg/local_setup.dsv
+-- Installing: C:/COMP4900project/ros2_ws/install/share/sensor_pkg/package.dsv
+-- Installing: C:/COMP4900project/ros2_ws/install/share/ament_index/resource_index/packages/sensor_pkg
+-- Installing: C:/COMP4900project/ros2_ws/install/share/sensor_pkg/cmake/sensor_pkgConfig.cmake
+-- Installing: C:/COMP4900project/ros2_ws/install/share/sensor_pkg/cmake/sensor_pkgConfig-version.cmake
+-- Installing: C:/COMP4900project/ros2_ws/install/share/sensor_pkg/package.xml

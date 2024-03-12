@@ -1,0 +1,66 @@
+[2.078s] Invoking command in 'C:\COMP4900project\ros2_ws\build\handler_pkg': INCLUDE=%INCLUDE%
+IntelliJ IDEA=C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin;
+IntelliJ IDEA Educational Edition=C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2020.3.2\bin; C:\Program Files\CMake\bin\cmake.EXE C:\COMP4900project\ros2_ws\src\handler_pkg -DCMAKE_INSTALL_PREFIX=C:\COMP4900project\ros2_ws\install -G Visual Studio 16 2019
+[2.125s] -- Selecting Windows SDK version 10.0.22000.0 to target Windows 10.0.22631.
+[3.610s] -- The C compiler identification is MSVC 19.29.30154.0
+[4.516s] -- The CXX compiler identification is MSVC 19.29.30154.0
+[4.563s] -- Detecting C compiler ABI info
+[5.469s] -- Detecting C compiler ABI info - done
+[5.485s] -- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe - skipped
+[5.485s] -- Detecting C compile features
+[5.485s] -- Detecting C compile features - done
+[5.500s] -- Detecting CXX compiler ABI info
+[6.391s] -- Detecting CXX compiler ABI info - done
+[6.406s] -- Check for working CXX compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe - skipped
+[6.406s] -- Detecting CXX compile features
+[6.406s] -- Detecting CXX compile features - done
+[6.438s] -- Found ament_cmake: 1.3.8 (C:/dev/ros2-humble-20240222-windows-release-amd64/ros2-windows/share/ament_cmake/cmake)
+[14.688s] -- Found Python3: C:/Python38/python.exe (found version "3.8.3") found components: Interpreter 
+[15.360s] -- Found ament_lint_auto: 0.12.10 (C:/dev/ros2-humble-20240222-windows-release-amd64/ros2-windows/share/ament_lint_auto/cmake)
+[15.750s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[15.750s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:C:/COMP4900project/ros2_ws/src/handler_pkg/include>
+[15.750s] -- Configured cppcheck exclude dirs and/or files: 
+[15.766s] -- Added test 'lint_cmake' to check CMake code style
+[15.781s] -- Added test 'uncrustify' to check C / C++ code style
+[15.781s] -- Configured uncrustify additional arguments: 
+[15.797s] -- Added test 'xmllint' to check XML markup files
+[15.860s] -- Configuring done (13.8s)
+[16.000s] -- Generating done (0.1s)
+[16.031s] -- Build files have been written to: C:/COMP4900project/ros2_ws/build/handler_pkg
+[16.047s] Invoked command in 'C:\COMP4900project\ros2_ws\build\handler_pkg' returned '0': INCLUDE=%INCLUDE%
+IntelliJ IDEA=C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin;
+IntelliJ IDEA Educational Edition=C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2020.3.2\bin; C:\Program Files\CMake\bin\cmake.EXE C:\COMP4900project\ros2_ws\src\handler_pkg -DCMAKE_INSTALL_PREFIX=C:\COMP4900project\ros2_ws\install -G Visual Studio 16 2019
+[16.047s] Invoking command in 'C:\COMP4900project\ros2_ws\build\handler_pkg': CL=/MP INCLUDE=%INCLUDE%
+IntelliJ IDEA=C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin;
+IntelliJ IDEA Educational Edition=C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2020.3.2\bin; C:\Program Files\CMake\bin\cmake.EXE --build C:\COMP4900project\ros2_ws\build\handler_pkg --config Release
+[16.203s] Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+[16.203s] Copyright (C) Microsoft Corporation. All rights reserved.
+[16.203s] 
+[16.594s]   1>Checking Build System
+[16.781s]   Building Custom Rule C:/COMP4900project/ros2_ws/src/handler_pkg/CMakeLists.txt
+[16.969s]   handler.cpp
+[17.235s]   handler.vcxproj -> C:\COMP4900project\ros2_ws\build\handler_pkg\Release\handler.exe
+[17.297s]   Building Custom Rule C:/COMP4900project/ros2_ws/src/handler_pkg/CMakeLists.txt
+[17.391s] Invoked command in 'C:\COMP4900project\ros2_ws\build\handler_pkg' returned '0': CL=/MP INCLUDE=%INCLUDE%
+IntelliJ IDEA=C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin;
+IntelliJ IDEA Educational Edition=C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2020.3.2\bin; C:\Program Files\CMake\bin\cmake.EXE --build C:\COMP4900project\ros2_ws\build\handler_pkg --config Release
+[17.422s] Invoking command in 'C:\COMP4900project\ros2_ws\build\handler_pkg': INCLUDE=%INCLUDE%
+IntelliJ IDEA=C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin;
+IntelliJ IDEA Educational Edition=C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2020.3.2\bin; C:\Program Files\CMake\bin\cmake.EXE --install C:\COMP4900project\ros2_ws\build\handler_pkg --config Release
+[17.469s] -- Installing: C:/COMP4900project/ros2_ws/install/lib/handler_pkg/handler.exe
+[17.469s] -- Installing: C:/COMP4900project/ros2_ws/install/share/ament_index/resource_index/package_run_dependencies/handler_pkg
+[17.485s] -- Installing: C:/COMP4900project/ros2_ws/install/share/ament_index/resource_index/parent_prefix_path/handler_pkg
+[17.485s] -- Installing: C:/COMP4900project/ros2_ws/install/share/handler_pkg/environment/ament_prefix_path.bat
+[17.500s] -- Installing: C:/COMP4900project/ros2_ws/install/share/handler_pkg/environment/ament_prefix_path.dsv
+[17.500s] -- Installing: C:/COMP4900project/ros2_ws/install/share/handler_pkg/environment/path.bat
+[17.500s] -- Installing: C:/COMP4900project/ros2_ws/install/share/handler_pkg/environment/path.dsv
+[17.500s] -- Installing: C:/COMP4900project/ros2_ws/install/share/handler_pkg/local_setup.bat
+[17.516s] -- Installing: C:/COMP4900project/ros2_ws/install/share/handler_pkg/local_setup.dsv
+[17.516s] -- Installing: C:/COMP4900project/ros2_ws/install/share/handler_pkg/package.dsv
+[17.516s] -- Installing: C:/COMP4900project/ros2_ws/install/share/ament_index/resource_index/packages/handler_pkg
+[17.531s] -- Installing: C:/COMP4900project/ros2_ws/install/share/handler_pkg/cmake/handler_pkgConfig.cmake
+[17.531s] -- Installing: C:/COMP4900project/ros2_ws/install/share/handler_pkg/cmake/handler_pkgConfig-version.cmake
+[17.531s] -- Installing: C:/COMP4900project/ros2_ws/install/share/handler_pkg/package.xml
+[18.578s] Invoked command in 'C:\COMP4900project\ros2_ws\build\handler_pkg' returned '0': INCLUDE=%INCLUDE%
+IntelliJ IDEA=C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin;
+IntelliJ IDEA Educational Edition=C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2020.3.2\bin; C:\Program Files\CMake\bin\cmake.EXE --install C:\COMP4900project\ros2_ws\build\handler_pkg --config Release
